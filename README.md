@@ -2,38 +2,53 @@
 
 <div align="center">
 
-<!-- Animated Gradient Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6b9d,50:c44569,100:6c5ce7&height=200&section=header&text=PRIYANKA&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Code%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<!-- Animated Header with Cyber Style -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=24&height=150&section=header&text=&fontSize=0" width="100%"/>
 
-<!-- Animated Wave Hand -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+<!-- Profile Card -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&repeat=true&width=500&height=70&lines=PRIYANKA" alt="Name" />
 
-<!-- Dynamic Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=1000&color=FF6B9D&center=true&vCenter=true&repeat=true&width=450&height=35&lines=Full+Stack+Developer+%7C+Code+Enthusiast" alt="Title" />
+
+<br/><br/>
+
+<!-- Animated Tech Line -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <br/>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=FF6B9D&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=%E2%9C%A8+Crafting+Digital+Experiences;%F0%9F%92%BB+Building+Scalable+Web+Apps;%F0%9F%92%96+Clean+Code+Advocate;%F0%9F%8C%9F+Turning+Ideas+into+Reality" alt="Typing SVG" />
-</a>
+
+<!-- 3D Badges -->
+<p>
+  <a href="https://www.linkedin.com/in/priyanka-b04963313/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:priyankakulal1205@gmail.com?subject=Hello%20Priyanka!&body=Hi%20Priyanka,%0A%0AI%20found%20your%20GitHub%20profile%20and%20wanted%20to%20connect!">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Priyanka959">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://wa.me/919148328621">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
 
 <br/>
 
-<!-- Animated Social Links with Hover -->
-<a href="https://www.linkedin.com/in/priyanka-b04963313/">
-  <img src="https://img.shields.io/badge/-priyanka--kulal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
-</a>
-<a href="mailto:priyankakulal1205@gmail.com">
-  <img src="https://img.shields.io/badge/-priyankakulal1205-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
-</a>
-<a href="https://github.com/Priyanka959">
-  <img src="https://img.shields.io/badge/-Priyanka959-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
-</a>
-<img src="https://img.shields.io/badge/+91_91483_28621-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366"/>
+<!-- Animated Intro Text -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=%3E+Crafting+Digital+Experiences...;%3E+Building+Scalable+Web+Apps...;%3E+Clean+Code+Advocate...;%3E+Turning+Ideas+into+Reality..." alt="Typing SVG" />
+
+<br/>
+
+<!-- Animated Tech Line -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 </div>
 
 <br/>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
 
