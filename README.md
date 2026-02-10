@@ -1,192 +1,335 @@
-<div align="center">
-  
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there,%20I'm%20Priyanka%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<!-- 🌸 PRIYANKA'S GITHUB PROFILE 🌸 -->
 
-<!-- Typing Animation -->
+<div align="center">
+
+<!-- Animated Gradient Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6b9d,50:c44569,100:6c5ce7&height=200&section=header&text=PRIYANKA&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Code%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+
+<!-- Animated Wave Hand -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+
+<!-- Dynamic Typing -->
+<br/>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Web+Applications+%F0%9F%8C%90;Passionate+about+Clean+Code+%26+Great+UX+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=FF6B9D&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=%E2%9C%A8+Crafting+Digital+Experiences;%F0%9F%9A%80+Building+Scalable+Web+Apps;%F0%9F%92%BB+Clean+Code+Advocate;%F0%9F%8C%9F+Turning+Ideas+into+Reality" alt="Typing SVG" />
 </a>
 
-<!-- Profile Views & Social Badges -->
+<br/>
+
+<!-- Animated Social Links with Hover -->
+<a href="https://www.linkedin.com/in/priyanka-kulal">
+  <img src="https://img.shields.io/badge/-priyanka--kulal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+</a>
+<a href="mailto:priyankakulal1205@gmail.com">
+  <img src="https://img.shields.io/badge/-priyankakulal1205-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+</a>
+<a href="https://github.com/Priyanka959">
+  <img src="https://img.shields.io/badge/-Priyanka959-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
+</a>
+<img src="https://img.shields.io/badge/+91_91483_28621-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366"/>
+
+<br/><br/>
+
+<!-- Profile Visitors -->
+<img src="https://komarev.com/ghpvc/?username=Priyanka959&style=for-the-badge&color=ff6b9d&label=PROFILE+VISITORS"/>
+
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+<!-- About Section with Glassmorphism Style -->
+<h2>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/> 
+  &nbsp;About Me
+</h2>
+
+<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+```yaml
+name: Priyanka
+located_in: India 🇮🇳
+current_role: Frontend Developer Intern @ Exelon Circuits
+education:
+  - MCA @ NMAM Institute of Technology (CGPA: 8.9)
+  - B.Sc @ Govinda Dasa College (CGPA: 9.43)
+
+currently:
+  - 🔭 Building responsive UIs with Next.js & TypeScript
+  - 🌱 Exploring advanced React patterns
+  - 👯 Open to collaborate on full-stack projects
+  
+strengths:
+  - Problem Solving & Clean Architecture
+  - RESTful API Design
+  - Responsive & Accessible UI Development
+  
+fun_fact: "I debug with console.log and I'm proud of it 😄"
+```
+
+<br clear="both"/>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+<!-- Tech Stack Section -->
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"/> 
+  &nbsp;Tech Arsenal
+</h2>
+
+<div align="center">
+
+<!-- Languages -->
+<h3>💻 Programming Languages</h3>
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Priyanka959&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/priyanka-kulal">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:priyankakulal1205@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/Priyanka959">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,ts&theme=dark" />
+</p>
+
+<!-- Frontend -->
+<h3>🎨 Frontend Development</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
+</p>
+
+<!-- Backend -->
+<h3>⚙️ Backend & Database</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql&theme=dark" />
+</p>
+
+<!-- Tools -->
+<h3>🛠️ Tools & Platforms</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 </p>
 
 </div>
 
----
+<br/>
 
-## 🚀 About Me
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-```javascript
-const priyanka = {
-    pronouns: "she/her",
-    location: "India 🇮🇳",
-    currentRole: "Frontend Developer Intern @ Exelon Circuits Pvt. Ltd.",
-    education: "MCA @ NMAM Institute of Technology (CGPA: 8.9)",
-    
-    techStack: {
-        frontend: ["React.js", "Next.js", "TypeScript", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js", "Spring Boot"],
-        databases: ["MongoDB", "MySQL"],
-        tools: ["Git", "Postman", "VS Code"]
-    },
-    
-    currentFocus: "Building scalable full-stack applications",
-    funFact: "I turn coffee ☕ into code 💻"
-};
+<br/>
+
+<!-- GitHub Stats Section -->
+<h2>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/>
+  &nbsp;GitHub Analytics
+</h2>
+
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Priyanka959&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b9d&icon_color=c44569&text_color=ffffff" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Priyanka959&theme=radical&hide_border=true&background=0D1117&ring=ff6b9d&fire=c44569&currStreakLabel=ff6b9d" />
+  
+</div>
+
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka959&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b9d" />
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+<!-- Featured Projects Section -->
+<h2>
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"/>
+  &nbsp;Featured Projects
+</h2>
+
+<div align="center">
+
+<!-- Project Cards - Custom Design -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 E-Learning Platform
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+
+```diff
++ Full-stack course management system
++ RESTful APIs with CRUD operations
++ Responsive cross-browser UI
++ Progress tracking dashboard
 ```
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanka959&custom_title=Contribution%20Graph&bg_color=0d1117&color=6366f1&line=6366f1&point=fff&area_color=6366f1&area=true&hide_border=true" width="100%"/>
-</div>
+</td>
+<td width="50%" valign="top">
 
----
+### 🧾 Retail Invoice Generator
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
 
-## 🛠️ Tech Stack
+```diff
++ Real-time invoice management
++ Role-based access control (RBAC)
++ Admin/Cashier dashboards
++ Relational DB schema design
+```
 
-<div align="center">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 👩‍💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🌤️ Weather Forecast System
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
+</p>
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+```diff
++ Interactive charts (pie, line)
++ User favorites & locations
++ Forecast history tracking
++ Jest unit testing suite
+```
 
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+### 🫁 Pneumonia Detection (AI/ML)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+</p>
 
-</div>
+```diff
++ CNN deep learning model
++ Medical image classification
++ Real-time inference via Streamlit
++ Data augmentation techniques
+```
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Priyanka959&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Priyanka's GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka959&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanka959&theme=tokyonight_duo&hide_border=true&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak Stats"/>
-</div>
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-[![E-Learning Platform](https://github-readme-stats.vercel.app/api/pin/?username=Priyanka959&repo=e-learning-platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1)](https://github.com/Priyanka959/e-learning-platform)
-[![Retail Invoice Generator](https://github-readme-stats.vercel.app/api/pin/?username=Priyanka959&repo=retail-invoice-generator&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1)](https://github.com/Priyanka959/retail-invoice-generator)
-
-[![Weather Forecast System](https://github-readme-stats.vercel.app/api/pin/?username=Priyanka959&repo=weather-forecast-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1)](https://github.com/Priyanka959/weather-forecast-system)
-[![Pneumonia Detection](https://github-readme-stats.vercel.app/api/pin/?username=Priyanka959&repo=pneumonia-detection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1)](https://github.com/Priyanka959/pneumonia-detection)
-
-</div>
-
----
-
-## 💼 Experience & Certifications
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>👩‍💻 Current Role</h3>
-      <p><strong>Frontend Developer Intern</strong></p>
-      <p>Exelon Circuits Pvt. Ltd.</p>
-      <p><em>Dec 2025 – Present</em></p>
-      <p>Building responsive UIs with Next.js, TypeScript & Tailwind CSS</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🎓 Education</h3>
-      <p><strong>Master of Computer Applications</strong></p>
-      <p>NMAM Institute of Technology</p>
-      <p><em>CGPA: 8.9 | 2024-2026</em></p>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+<!-- Experience & Education -->
+<h2>
+  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"/>
+  &nbsp;Experience & Education
+</h2>
+
 <div align="center">
-  
-### 📜 Certifications
-  
-![Full Stack](https://img.shields.io/badge/Full_Stack_Workshop-NMAMIT_2025-6366f1?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL_for_Data_Analytics-Udemy_2024-6366f1?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-Udemy_2024-6366f1?style=for-the-badge)
+
+```mermaid
+timeline
+    title Career Journey
+    2021-2024 : 🎓 B.Sc (CGPA: 9.43)
+              : Govinda Dasa College, Surathkal
+    2024-2026 : 🎓 MCA (CGPA: 8.9)
+              : NMAM Institute of Technology
+    Dec 2025  : 💼 Frontend Developer Intern
+              : Exelon Circuits Pvt. Ltd.
+```
 
 </div>
 
----
+<br/>
 
-## 🤝 Let's Connect!
+### 📜 Certifications
 
 <div align="center">
   
-<a href="mailto:priyankakulal1205@gmail.com">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
+| 🏆 Certificate | 🏫 Institution | 📅 Year |
+|:---:|:---:|:---:|
+| Full Stack Workshop | NMAMIT | 2025 |
+| SQL for Data Analytics | Udemy | 2024 |
+| MongoDB | Udemy | 2024 |
+
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+<!-- Connect Section -->
+<h2>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"/>
+  &nbsp;Let's Connect!
+</h2>
+
+<div align="center">
+  
+<p><i>I'm always excited to collaborate on interesting projects or discuss new opportunities!</i></p>
+
+<br/>
+
 <a href="https://www.linkedin.com/in/priyanka-kulal">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845571571.png"/>
+  <img height="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:priyankakulal1205@gmail.com">
+  <img height="45" src="https://www.svgrepo.com/show/452213/gmail.svg" alt="Gmail"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Priyanka959">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
+  <img height="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-**📫 Phone: +91 91483 28621**
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+<!-- Random Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 
 </div>
 
----
+<br/>
 
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanka959&custom_title=Priyanka's%20Contribution%20Graph&bg_color=0D1117&color=ff6b9d&line=c44569&point=ffffff&area_color=ff6b9d&area=true&hide_border=true" width="100%"/>
+</div>
+
+<br/>
+
+<!-- Footer -->
 <div align="center">
   
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### 💭 *"First, solve the problem. Then, write the code."* – John Johnson
 
 <br/>
 
-![Snake animation](https://raw.githubusercontent.com/Priyanka959/Priyanka959/output/github-contribution-grid-snake-dark.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b9d,50:c44569,100:6c5ce7&height=120&section=footer"/>
 
 </div>
-
-<!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 <!---
 Priyanka959/Priyanka959 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
