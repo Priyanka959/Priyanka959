@@ -1,25 +1,27 @@
-<!-- 🌸 PRIYANKA'S GITHUB PROFILE 🌸 -->
+<!-- ✨ PRIYANKA'S GITHUB PROFILE ✨ -->
 
 <div align="center">
 
-<!-- Matrix Style Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:EC4899,100:F97316&height=300&section=header&text=&fontSize=0" width="100%"/>
+<!-- Elegant Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
 
-</div>
+<!-- Elegant Name Display -->
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=50&duration=3500&pause=1500&color=C084FC&center=true&vCenter=true&width=450&height=70&lines=Priyanka" alt="Name" />
 
-<!-- Floating Profile Section -->
-<div align="center">
-  
-<!-- Animated Name with Glow Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=60&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&height=80&lines=PRIYANKA" alt="Name" />
+<!-- Subtle Sparkle Divider -->
+<img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=35&duration=2000&pause=1000&color=F9A8D4&center=true&vCenter=true&width=500&height=50&lines=%E2%9C%A7+%E2%9C%A7+%E2%9C%A7+%E2%9C%A7+%E2%9C%A7+%E2%9C%A7+%E2%9C%A7" alt="Divider" />
 
-<!-- Tagline -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=500&color=EC4899&center=true&vCenter=true&width=600&height=40&lines=✨+Full+Stack+Developer+%7C+Code+Enthusiast+✨" alt="Tagline" />
+<!-- Elegant Tagline -->
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=20&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&height=35&lines=Full+Stack+Developer+%E2%80%A2+Crafting+Digital+Experiences" alt="Tagline" />
 
 <br/>
 
-<!-- Decorative Elements -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+<!-- Elegant Wave Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
 
 </div>
 
