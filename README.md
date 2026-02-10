@@ -3,25 +3,21 @@
 <div align="center">
 
 <!-- Elegant Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:C44569,100:6C5CE7&height=200&section=header&text=Priyanka&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Elegant Name Display -->
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=50&duration=3500&pause=1500&color=C084FC&center=true&vCenter=true&width=450&height=70&lines=Priyanka" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=45&duration=3500&pause=1500&color=FF6B9D&center=true&vCenter=true&width=450&height=65&lines=Hello+World+%F0%9F%91%8B" alt="Greeting" />
 
 <!-- Subtle Sparkle Divider -->
-<img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=35&duration=2000&pause=1000&color=F9A8D4&center=true&vCenter=true&width=500&height=50&lines=%E2%9C%A7+%E2%9C%A7+%E2%9C%A7+%E2%9C%A7+%E2%9C%A7+%E2%9C%A7+%E2%9C%A7" alt="Divider" />
+<img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=30&duration=2000&pause=1000&color=C44569&center=true&vCenter=true&width=500&height=45&lines=%E2%9C%A7+%E2%9C%A7+%E2%9C%A7+%E2%9C%A7+%E2%9C%A7+%E2%9C%A7+%E2%9C%A7" alt="Divider" />
 
 <!-- Elegant Tagline -->
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=20&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&height=35&lines=Full+Stack+Developer+%E2%80%A2+Crafting+Digital+Experiences" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=18&duration=4000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=550&height=30&lines=Crafting+Beautiful+Digital+Experiences+%E2%9C%A8;Turning+Ideas+Into+Reality+%F0%9F%9A%80;Code+%E2%80%A2+Create+%E2%80%A2+Innovate+%F0%9F%92%AB" alt="Tagline" />
 
 <br/>
 
-<!-- Elegant Wave Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
+<!-- Animated Divider Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
 
