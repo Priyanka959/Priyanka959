@@ -19,6 +19,9 @@
 <!-- Animated Divider Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+
 </div>
 
 <br/>
@@ -31,7 +34,7 @@
 <td width="50%" align="center">
 
 <!-- Animated Coding GIF -->
-<img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73444e72476254486e6b6a4d64323133557a6f5f4c4a76366e6168644d61754459586b48396769365679374c7a4d5a6a737866587a6c4267643864654e4c6b676761696b4a424f314f7a3267704d374655326e6f7a6c624d356e4c795737594b3462324f634e47576a50556e7a374a7a4e7a4651766e7730757a6b30556b345f486e4f4b4c6852524f63656f713046774f44687a6c58496d315459414d6d4a6a5f684e7a574f387331637869336a675a724e58526f6a4d76773d3d" width="300"/>
+<img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="300"/>
 
 </td>
 <td width="50%" align="center">
@@ -179,13 +182,13 @@ fun_fact: "I debug with console.log and I'm proud of it 😄"
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Priyanka959&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b9d&icon_color=c44569&text_color=ffffff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Priyanka959&theme=radical&hide_border=true&background=0D1117&ring=ff6b9d&fire=c44569&currStreakLabel=ff6b9d" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Priyanka959&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b9d&icon_color=c44569&text_color=ffffff&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Priyanka959&theme=radical&hide_border=true&background=0D1117&ring=ff6b9d&fire=c44569&currStreakLabel=ff6b9d" />
   
 </div>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka959&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b9d" />
+  <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Priyanka959&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b9d" />
 </div>
 
 <br/>
