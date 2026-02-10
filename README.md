@@ -11,13 +11,13 @@
 <!-- Dynamic Typing -->
 <br/>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=FF6B9D&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=%E2%9C%A8+Crafting+Digital+Experiences;%F0%9F%9A%80+Building+Scalable+Web+Apps;%F0%9F%92%BB+Clean+Code+Advocate;%F0%9F%8C%9F+Turning+Ideas+into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=FF6B9D&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=%E2%9C%A8+Crafting+Digital+Experiences;%F0%9F%92%BB+Building+Scalable+Web+Apps;%F0%9F%92%96+Clean+Code+Advocate;%F0%9F%8C%9F+Turning+Ideas+into+Reality" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Animated Social Links with Hover -->
-<a href="https://www.linkedin.com/in/priyanka-kulal">
+<a href="https://www.linkedin.com/in/priyanka-b04963313/">
   <img src="https://img.shields.io/badge/-priyanka--kulal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
 </a>
 <a href="mailto:priyankakulal1205@gmail.com">
@@ -27,11 +27,6 @@
   <img src="https://img.shields.io/badge/-Priyanka959-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
 </a>
 <img src="https://img.shields.io/badge/+91_91483_28621-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366"/>
-
-<br/><br/>
-
-<!-- Profile Visitors -->
-<img src="https://komarev.com/ghpvc/?username=Priyanka959&style=for-the-badge&color=ff6b9d&label=PROFILE+VISITORS"/>
 
 </div>
 
@@ -48,7 +43,7 @@
   &nbsp;About Me
 </h2>
 
-<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 ```yaml
 name: Priyanka
@@ -292,7 +287,7 @@ timeline
 
 <br/>
 
-<a href="https://www.linkedin.com/in/priyanka-kulal">
+<a href="https://www.linkedin.com/in/priyanka-b04963313/">
   <img height="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
