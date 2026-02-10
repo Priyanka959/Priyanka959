@@ -154,27 +154,6 @@ fun_fact: "I debug with console.log and I'm proud of it 😄"
 
 <br/>
 
-<!-- GitHub Stats Section -->
-<h2>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/>
-  &nbsp;GitHub Analytics
-</h2>
-
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Priyanka959&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b9d&icon_color=c44569&text_color=ffffff&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Priyanka959&theme=radical&hide_border=true&background=0D1117&ring=ff6b9d&fire=c44569&currStreakLabel=ff6b9d" />
-  
-</div>
-
-<div align="center">
-  <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Priyanka959&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b9d" />
-</div>
-
-<br/>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
 
