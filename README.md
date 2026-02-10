@@ -28,29 +28,18 @@
 
 <div align="center">
 
-<!-- Profile Picture Style Section -->
-<table>
-<tr>
-<td width="50%" align="center">
-
-
-
-<!-- Social Links - Animated Icons -->
+<!-- Social Links - Inline Layout -->
 <a href="https://www.linkedin.com/in/priyanka-b04963313/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<br/>
+&nbsp;&nbsp;
 <a href="mailto:priyankakulal1205@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<br/>
+&nbsp;&nbsp;
 <a href="https://github.com/Priyanka959">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</td>
-</tr>
-</table>
 
 </div>
 
