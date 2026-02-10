@@ -33,23 +33,7 @@
 <tr>
 <td width="50%" align="center">
 
-<!-- Animated Coding GIF -->
-<img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="300"/>
 
-</td>
-<td width="50%" align="center">
-
-<!-- Introduction Card -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-<br/><br/>
-
-**`🚀 Frontend Developer Intern @ Exelon Circuits`**
-
-**`🎓 MCA @ NMAM Institute of Technology`**
-
-**`📍 India`**
-
-<br/>
 
 <!-- Social Links - Animated Icons -->
 <a href="https://www.linkedin.com/in/priyanka-b04963313/">
@@ -62,10 +46,6 @@
 <br/>
 <a href="https://github.com/Priyanka959">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<br/>
-<a href="https://wa.me/919148328621">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </td>
